@@ -1,0 +1,4 @@
+{
+    "rust.show_warnings": true,
+    "rust.show_hover_context": true
+}
